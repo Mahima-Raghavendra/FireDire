@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396217244857",
+    "project_id": "firedire-f9b66",
+    "storage_bucket": "firedire-f9b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396217244857:android:d53b4a399e64453b16cf68",
+        "android_client_info": {
+          "package_name": "com.example.firedire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396217244857-sbh98k2hsccoj5kdjql0t5v2u12u1j20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtzog6GFJAIpcU_yeqcSVBcuUNhmlndyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396217244857-sbh98k2hsccoj5kdjql0t5v2u12u1j20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
